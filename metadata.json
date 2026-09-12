@@ -1,0 +1,6 @@
+{
+  "name": "الماس داشبورد | افزونه تب جدید مدرن و شیشه‌ای",
+  "description": "معرفی و دانلود افزونه الماس داشبورد (Almas Dashboard) - داشبورد مدرن شخصی‌سازی شده با طراحی شیشه‌ای کریستال، مدیریت بوکمارک‌ها، تاریخ و تقویم جلالی و ابزارهای کاربردی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
